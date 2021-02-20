@@ -1,16 +1,16 @@
 ### Hi there 👋
 
 <!--
-**tavonpour/tavonpour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+**tavonpour/tavonpour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
 -->
+
+- 🔭 Professionally I work on Python
+- 🌱 I love learning! Right now I'm working on improving my Full-Stack Web Development skills (Django, Svelte, React)
+<!-- - 👯 I’m looking to collaborate on ... -->
+<!-- - 🤔 I’m looking for help with ... -->
+<!-- - 💬 Ask me about ... -->
+
+<!-- - 😄 Pronouns: ... -->
+<!-- - ⚡ Fun fact: ... -->
+
+- 📫 How to reach me: [Email](mailto:tavonpour@gmail.com) | [Portfolio](https://tavonpour.github.io/)

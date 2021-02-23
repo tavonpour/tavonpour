@@ -13,4 +13,4 @@
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact: ... -->
 
-- 📫 How to reach me: [Email](mailto:tavonpour@gmail.com) | [Portfolio](https://tavonpour.github.io/)
+- 📫 How to reach me: [Portfolio](https://tavonpour.github.io/)

@@ -10,6 +10,7 @@
 
 - 🔭 Professionally I work on Python
 - 🌱 I love learning! Right now I'm working on improving my Frontend Web Development skills with React!
+- 👶🏻 Just had a baby, so if you're wondering why my repo looks sparse as of late...there you have it.
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->

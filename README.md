@@ -1,4 +1,4 @@
-<h2 align="center">👋 Yo! I'm Tavon Pourboghrat</h2>
+<h2 align="center">👋 Yo, I'm Tavon!</h2>
 <h3>Welcome to my corner of the internet.</h3>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=tavonpour.tavonpour)
